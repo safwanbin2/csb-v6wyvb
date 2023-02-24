@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://safwanbin2.github.io/csb-v6wyvb/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://safwanbin2.github.io/csb-v6wyvb/static/js/main.9ec4f0e0.chunk.js",
+    "main.js.map": "https://safwanbin2.github.io/csb-v6wyvb/static/js/main.9ec4f0e0.chunk.js.map",
+    "runtime-main.js": "https://safwanbin2.github.io/csb-v6wyvb/static/js/runtime-main.8f3093a6.js",
+    "runtime-main.js.map": "https://safwanbin2.github.io/csb-v6wyvb/static/js/runtime-main.8f3093a6.js.map",
+    "static/js/2.81daf36f.chunk.js": "https://safwanbin2.github.io/csb-v6wyvb/static/js/2.81daf36f.chunk.js",
+    "static/js/2.81daf36f.chunk.js.map": "https://safwanbin2.github.io/csb-v6wyvb/static/js/2.81daf36f.chunk.js.map",
+    "index.html": "https://safwanbin2.github.io/csb-v6wyvb/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://safwanbin2.github.io/csb-v6wyvb/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.81daf36f.chunk.js.LICENSE.txt": "https://safwanbin2.github.io/csb-v6wyvb/static/js/2.81daf36f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f3093a6.js",
+    "static/js/2.81daf36f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.9ec4f0e0.chunk.js"
+  ]
+}
